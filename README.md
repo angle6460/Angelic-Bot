@@ -30,8 +30,7 @@ This is a simple Discord bot developed when I was 15 years old. The bot includes
 
 ## Disclaimer
 
-This code was written when I was 15 years old, and it does not reflect my current coding practices. At the time, I was still learning the basics of programming, and the structure, naming conventions, and overall design of this bot are far from ideal. If you're interested in seeing my more recent work, feel free to check out my other projects!
-
+This code was written when I was 15 years old, and it does not reflect my current coding practices. At the time, I was still learning the basics of programming, and the structure, naming conventions, and overall design of this bot are far from ideal.
 ## Requirements
 
 - Python 3.8+
